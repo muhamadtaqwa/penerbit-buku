@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /
+Allow: /katalog
+Allow: /penulis
+Allow: /artikel
+Allow: /layanan-penerbitan
+Allow: /tentang-kami
+Allow: /kontak
+Allow: /kirim-naskah
+
+Disallow: /admin
+Disallow: /admin/
+Disallow: /checkout
+Disallow: /keranjang
+Disallow: /dashboard
+Disallow: /profile
+Disallow: /login
+Disallow: /register
+Disallow: /forgot-password
+Disallow: /reset-password
+
+Sitemap: http://localhost:8009/sitemap.xml
